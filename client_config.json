@@ -45,7 +45,7 @@
        "allowInsecure": true
       },
      "wsSettings": {
-       "path": "",
+       "path": "/api",
        "headers": {
           "Host": "your_app_name.herokuapp.com"
        }
